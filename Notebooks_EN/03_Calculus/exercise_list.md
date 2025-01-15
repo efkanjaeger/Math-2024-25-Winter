@@ -12,10 +12,13 @@ Find value of all the above functions at $x = 2$.
 
 Solution:
 
-f(2) = 2² = 4
-g(2) = √2 ≈1.414
-h(2) = 1/2 = 0.5
-j(2) = sin(2) ≈0.909
+f(2) = 2² = 4,
+
+g(2) = √2 ≈1.414,
+
+h(2) = 1/2 = 0.5,
+
+j(2) = sin(2) ≈0.909,
 
 
 2. Let $f(x) = 3x - 1$ and $g(x) = \sqrt{x}$. Find:
