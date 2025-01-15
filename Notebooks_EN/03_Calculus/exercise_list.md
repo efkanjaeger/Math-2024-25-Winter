@@ -37,6 +37,8 @@ Solution: , f(g(x) = g(f(x))),
 
 4. We have function $f=\{(1,7), (2,9), (3,11)\}$. Give inverse function $f^{-1}$.
 
+Solution: , $f^{-1}=\{(7,1), (9,2), (11,3)\}$
+
 5. We have function $f=\{(1,7), (2,7), (3,11)\}$. Give inverse function $f^{-1}$.
 
 6. We have function $f(x)= x-1$. Give inverse function $f^{-1}$. Show both functions on the same Geogebra notebook.
