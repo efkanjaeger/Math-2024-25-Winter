@@ -41,12 +41,16 @@ Solution: , $f^{-1}=\{(7,1), (9,2), (11,3)\}$
 
 5. We have function $f=\{(1,7), (2,7), (3,11)\}$. Give inverse function $f^{-1}$.
 
+Solution: , $f^{-1}=\{(7,1), (7,2), (11,3)\}$
+
 6. We have function $f(x)= x-1$. Give inverse function $f^{-1}$. Show both functions on the same Geogebra notebook.
 
 ## Limits of Sequences
 
 1. Calculate:
    - $\displaystyle \lim_{n \to \infty} \frac{n^2 + 3n}{2 n^2 - 2n}$
+
+   Solution: ,$\displaystyle \lim_{n \to \infty} 4n^2/n^2 - 2n =  4/1- 2/n , 2/n = 0 = 4 $
 
    - $\displaystyle \lim_{n \to \infty} \frac{(2n+3)^3}{n^3-1}$
 
