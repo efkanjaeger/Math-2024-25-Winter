@@ -29,9 +29,7 @@ j(2) = sin(2) ≈0.909,
 
 and visualize functions in a single Geogebra notebook.
 
-
-
-
+Solution: On geogebra file.
 
 3. Let $f(x) = e^x$ and $g(x) = \ln(x)$. Check: $f(g(x))$ and $g(f(x))$. What do you notice?
 
