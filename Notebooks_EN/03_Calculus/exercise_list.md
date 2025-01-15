@@ -50,7 +50,7 @@ Solution: , $f^{-1}=\{(7,1), (7,2), (11,3)\}$
 1. Calculate:
    - $\displaystyle \lim_{n \to \infty} \frac{n^2 + 3n}{2 n^2 - 2n}$
 
-   Solution: ,lim(n to infinity) 4n²/ n² - 2n =  4/1- 2/n , 2/n = 0 = 4 
+   Solution: n² + 3n = n²(1 + 3/n) / 2n² - 2n = n²(2- 2/n) = (1+3/n)/(2-2/n), (n to infinity) = 0 , = 1/2
 
    - $\displaystyle \lim_{n \to \infty} \frac{(2n+3)^3}{n^3-1}$
 
