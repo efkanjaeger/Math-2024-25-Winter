@@ -10,6 +10,51 @@
 
 Find value of all the above functions at $x = 2$.
 
+Solution:
+
+f(2)=2 
+2
+ =4
+𝑔
+(
+2
+)
+=
+2
+≈
+1.414
+g(2)= 
+√2
+​
+ ≈1.414
+ℎ
+(
+2
+)
+=
+1
+2
+=
+0.5
+h(2)= 
+2
+1
+​
+ =0.5
+𝑗
+(
+2
+)
+=
+sin
+⁡
+(
+2
+)
+≈
+0.909
+j(2)=sin(2)≈0.909
+
 2. Let $f(x) = 3x - 1$ and $g(x) = \sqrt{x}$. Find:
    - $f(g(x))$
    - $g(f(x))$
@@ -17,6 +62,10 @@ Find value of all the above functions at $x = 2$.
    - $g(g(x))$
 
 and visualize functions in a single Geogebra notebook.
+
+
+
+
 
 3. Let $f(x) = e^x$ and $g(x) = \ln(x)$. Check: $f(g(x))$ and $g(f(x))$. What do you notice?
 
