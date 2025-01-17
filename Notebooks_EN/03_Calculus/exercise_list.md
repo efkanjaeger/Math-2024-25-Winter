@@ -85,9 +85,17 @@ Solution: -1 < sin(n) < 1 , -1/n < sin(n)/n < 1/n, lim -1/n = lim 1/n = 0,
 
 1. Compute derivatives of functions:
    * $y(x) = -3x+3$
+   solution: -3 + 0 = -3 
+ 
    * $y(x) = \pi x + \sin(1)$
+   solution: pi + 0 = pi
+
    * $y(x) = 4+\sin(2)$
+   solution: 0+0 = 0
+
    * $y(x) = 2x^3 - 3x^2 + 8x - 9$
+   solution: 6x^2 - 6x + 8 - 0 = 6x^2 -6x + 8
+
    * $y(x) = 6 x^{1/3}$
    * $y(x) = \sqrt{x}$
    * $y(x) = \cos(x) + \sin(x)$
