@@ -68,6 +68,8 @@ Solution: -1 < sin(n) < 1 , -1/n < sin(n)/n < 1/n, lim -1/n = lim 1/n = 0,
 1. Compute:
    - $\displaystyle\lim_{x \to \infty} \frac{x^3 + 2x^2}{x^4 - 3x^3}$
 
+   solution: divide by x^4 equals to = (1/x +2/x^2) / (1- 3/x) = (0+0) / (1-0) = 0
+
 2. Find:
    
    - $\displaystyle \lim_{x \to 0} \frac{\sin(3x)}{2x+1}$.
