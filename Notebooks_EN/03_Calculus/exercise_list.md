@@ -57,7 +57,8 @@ Solution: , $f^{-1}=\{(7,1), (7,2), (11,3)\}$
 2. Prove using the squeeze theorem:
    - $\displaystyle\lim_{n \to \infty} \frac{\sin(n)}{n}$
 
-Solution: -1 < sin(n) < 1 , -1/n < sin(n)/n < 1/n, lim -1/n = lim 1/n = 0, - $\displaystyle\lim_{n \to \infty} \frac{\sin(n)}{n}$ = 0
+Solution: -1 < sin(n) < 1 , -1/n < sin(n)/n < 1/n, lim -1/n = lim 1/n = 0, 
+ $\displaystyle\lim_{n \to \infty} \frac{\sin(n)}{n}$ = 0
    
 4. Find the limit of the sequence:
    - $a_n = (1+\frac{1}{n})^n$
