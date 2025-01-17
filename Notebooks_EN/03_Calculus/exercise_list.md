@@ -74,6 +74,8 @@ Solution: -1 < sin(n) < 1 , -1/n < sin(n)/n < 1/n, lim -1/n = lim 1/n = 0,
    
    - $\displaystyle \lim_{x \to 0} \frac{\sin(3x)}{2x+1}$.
 
+   solution: x to 0 , sin(0)/ (2(0) +1) = 0/1 = 0
+
 4. Find the asymptotes of the function:
   
    - $f(x) = \frac{x^2 - 1}{x^2 + 1}$
