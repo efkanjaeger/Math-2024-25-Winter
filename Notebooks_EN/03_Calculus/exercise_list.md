@@ -108,10 +108,13 @@ Solution: -1 < sin(n) < 1 , -1/n < sin(n)/n < 1/n, lim -1/n = lim 1/n = 0,
 
    solution: $y(x) = \sqrt{x}$ =  x^(1/2), y'(x) = (1/2)*x^(1/2 - 1) = (1/2)x^(-1/2)
 
-   * $y(x) = \cos(x) + \sin(x)$
-   * $y(x) = 2\sin(x) \cos(x)$
+   * $y(x) = \cos(x) + \sin(x)$ ,
+   * $y(x) = 2\sin(x) \cos(x)$ ,
    * $y(x) = x\sin(x)$
-   * $y(x) = (x+1)(x+1)$
+   * $y(x) = (x+1)(x+1)$ ,
+
+   solution: (x+1)(x+1) = (x+1)^2, y'(x) = 2(x+1)
+
    * $y(x) = \frac{x}{x+1}$
    * $y(x) = (x+1)\exp(x)$
    * $y(x) = \sin(x^2)$
