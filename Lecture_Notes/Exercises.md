@@ -423,22 +423,23 @@ and visualize functions in a single Geogebra notebook.
 ## 21. Derivatives
 
 1. Compute derivatives of functions:
-   * $y(x) = -3x+3$
-   * $y(x) = \pi x + \sin(1)$
-   * $y(x) = 4+\sin(2)$
-   * $y(x) = 2x^3 - 3x^2 + 8x - 9$
-   * $y(x) = 6 x^{1/3}$
-   * $y(x) = \sqrt{x}$
-   * $y(x) = \cos(x) + \sin(x)$
-   * $y(x) = 2\sin(x) \cos(x)$
-   * $y(x) = x\sin(x)$
-   * $y(x) = (x+1)(x+1)$
-   * $y(x) = \frac{x}{x+1}$
-   * $y(x) = (x+1)\exp(x)$
-   * $y(x) = \sin(x^2)$
-   * $y(x) = \exp(-2x)$
-   * $y(x) = \frac{1}{\sin(x+1)}$
-   * $y(x) = \sqrt{2x+1}$
+
+      * $y(x) = -3x+3$
+      * $y(x) = \pi x + \sin(1)$
+      * $y(x) = 4+\sin(2)$
+      * $y(x) = 2x^3 - 3x^2 + 8x - 9$
+      * $y(x) = 6 x^{1/3}$
+      * $y(x) = \sqrt{x}$
+      * $y(x) = \cos(x) + \sin(x)$
+      * $y(x) = 2\sin(x) \cos(x)$
+      * $y(x) = x\sin(x)$
+      * $y(x) = (x+1)(x+1)$
+      * $y(x) = \frac{x}{x+1}$
+      * $y(x) = (x+1)\exp(x)$
+      * $y(x) = \sin(x^2)$
+      * $y(x) = \exp(-2x)$
+      * $y(x) = \frac{1}{\sin(x+1)}$
+      * $y(x) = \sqrt{2x+1}$
 
 2. Prove:
    - $\frac{d}{dx} (\ln(\sin(x))) = \cot(x)$
@@ -512,7 +513,7 @@ $$
 ## 25. Differential Equations
 
 1. Solve the following first-order ordinary differential equations:
-   - $y'(x)= y$
+   - $y'(x)= y(x)$
    - $y'(x) = \frac{1}{2y(x)}$
   
 3. Solve the first-order ordinary differential equations using the method of separation of variables for $x$ and $y=y(x)$:
@@ -527,8 +528,8 @@ $$
 
    * $y''(x) - y(x)= 0$, with boundary conditions $y(0) = 2$ and $y'(0) = 0$
 
-   * $\frac{d^2\,y(x)}{dx^2} = -\omega^2 y(x)$.
-
+   * $\frac{d^2 y(x)}{dx^2} = -\omega^2 y(x)$.
+  
 5. Check if the function $\psi(t, x) = A \cos(\omega t + kx)$ is a solution of the second-order partial differential equation (the so-called "wave equation"), where $v = \frac{\omega}{k} = \frac{2\pi / T}{2\pi / \lambda}$:
 
 $$
